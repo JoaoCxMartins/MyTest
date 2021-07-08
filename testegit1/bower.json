@@ -1,0 +1,56 @@
+{
+  "name": "evaluation",
+  "version": "0.0.0",
+  "dependencies": {
+    "modernizr": "~2.8.3",
+    "respond": "~1.4.2",
+    "html5shiv": "~3.7.2",
+    "es5-shim": "~4.1.1",
+    "angular-animate": "~1.5.0",
+    "angular-cookies": "~1.5.0",
+    "angular-touch": "~1.5.0",
+    "angular-numeraljs": "~1.1.6",
+    "angular-moment": "~1.0.1",
+    "c3": "~0.4.10",
+    "fe-bootstrap": "latest",
+    "fe-angular-core": "~2.0.0",
+    "fe-call-me": "~3.0.15",
+    "fe-page-frame": "~2.10.61",
+    "fe-ab-test": "latest",
+    "fe-slider": "latest",
+    "fe-contact": "~1.1.0",
+    "fe-prop": "latest",
+    "fe-app-dynamics": "~1.0.0",
+    "fe-text-override": "latest",
+    "fe-investment-style-donut": "^1.0.0",
+    "fe-pie":"~1.0.3",
+    "fe-retirement-paycheck": "~1.0.0",
+    "fe-program-fees": "~3.0.17",
+    "fe-declining-risk-mna": "~1.0.1",
+    "angular-sticky": "angular-sticky-plugin#^0.3.0",
+    "ngstorage": "0.3.9"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git-prd-01/spa-development/evaluation.git"
+  },
+  "resolutions": {
+    "fe-angular-core": "~2.0.0",
+    "angular-bootstrap": "~0.14.3",
+    "angular-sanitize": "~1.5.0",
+    "angular": "~1.5.0",
+    "angular-busy": "~4.1.3",
+    "angular-animate": "~1.5.0",
+    "angular-cookies": "~1.5.0",
+    "fe-program-fees": "~3.0.17",
+    "fe-page-frame": "~2.10.61",
+    "angular-numeraljs": "~1.3.0",
+    "lodash": "~4.13.1",
+    "jquery": "~3.2.1",
+    "fe-text-override": "~3.0.0",
+    "ngstorage": "0.3.9"
+  }
+}
